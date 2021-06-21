@@ -1,0 +1,13 @@
+C:\Users\Erik\source\repos\Advanced C#\HW1_exercise_3\HW1_exercise_3\bin\Debug\netcoreapp3.1\HW1_exercise_3.exe
+C:\Users\Erik\source\repos\Advanced C#\HW1_exercise_3\HW1_exercise_3\bin\Debug\netcoreapp3.1\HW1_exercise_3.deps.json
+C:\Users\Erik\source\repos\Advanced C#\HW1_exercise_3\HW1_exercise_3\bin\Debug\netcoreapp3.1\HW1_exercise_3.runtimeconfig.json
+C:\Users\Erik\source\repos\Advanced C#\HW1_exercise_3\HW1_exercise_3\bin\Debug\netcoreapp3.1\HW1_exercise_3.runtimeconfig.dev.json
+C:\Users\Erik\source\repos\Advanced C#\HW1_exercise_3\HW1_exercise_3\bin\Debug\netcoreapp3.1\HW1_exercise_3.dll
+C:\Users\Erik\source\repos\Advanced C#\HW1_exercise_3\HW1_exercise_3\bin\Debug\netcoreapp3.1\HW1_exercise_3.pdb
+C:\Users\Erik\source\repos\Advanced C#\HW1_exercise_3\HW1_exercise_3\obj\Debug\netcoreapp3.1\HW1_exercise_3.csprojAssemblyReference.cache
+C:\Users\Erik\source\repos\Advanced C#\HW1_exercise_3\HW1_exercise_3\obj\Debug\netcoreapp3.1\HW1_exercise_3.AssemblyInfoInputs.cache
+C:\Users\Erik\source\repos\Advanced C#\HW1_exercise_3\HW1_exercise_3\obj\Debug\netcoreapp3.1\HW1_exercise_3.AssemblyInfo.cs
+C:\Users\Erik\source\repos\Advanced C#\HW1_exercise_3\HW1_exercise_3\obj\Debug\netcoreapp3.1\HW1_exercise_3.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\Advanced C#\HW1_exercise_3\HW1_exercise_3\obj\Debug\netcoreapp3.1\HW1_exercise_3.dll
+C:\Users\Erik\source\repos\Advanced C#\HW1_exercise_3\HW1_exercise_3\obj\Debug\netcoreapp3.1\HW1_exercise_3.pdb
+C:\Users\Erik\source\repos\Advanced C#\HW1_exercise_3\HW1_exercise_3\obj\Debug\netcoreapp3.1\HW1_exercise_3.genruntimeconfig.cache

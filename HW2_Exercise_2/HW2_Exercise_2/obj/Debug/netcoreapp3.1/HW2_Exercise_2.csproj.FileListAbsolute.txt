@@ -1,0 +1,12 @@
+C:\Users\Erik\source\repos\Advanced C#\HW2_Exercise_2\HW2_Exercise_2\obj\Debug\netcoreapp3.1\HW2_Exercise_2.AssemblyInfoInputs.cache
+C:\Users\Erik\source\repos\Advanced C#\HW2_Exercise_2\HW2_Exercise_2\obj\Debug\netcoreapp3.1\HW2_Exercise_2.AssemblyInfo.cs
+C:\Users\Erik\source\repos\Advanced C#\HW2_Exercise_2\HW2_Exercise_2\obj\Debug\netcoreapp3.1\HW2_Exercise_2.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\Advanced C#\HW2_Exercise_2\HW2_Exercise_2\bin\Debug\netcoreapp3.1\HW2_Exercise_2.exe
+C:\Users\Erik\source\repos\Advanced C#\HW2_Exercise_2\HW2_Exercise_2\bin\Debug\netcoreapp3.1\HW2_Exercise_2.deps.json
+C:\Users\Erik\source\repos\Advanced C#\HW2_Exercise_2\HW2_Exercise_2\bin\Debug\netcoreapp3.1\HW2_Exercise_2.runtimeconfig.json
+C:\Users\Erik\source\repos\Advanced C#\HW2_Exercise_2\HW2_Exercise_2\bin\Debug\netcoreapp3.1\HW2_Exercise_2.runtimeconfig.dev.json
+C:\Users\Erik\source\repos\Advanced C#\HW2_Exercise_2\HW2_Exercise_2\bin\Debug\netcoreapp3.1\HW2_Exercise_2.dll
+C:\Users\Erik\source\repos\Advanced C#\HW2_Exercise_2\HW2_Exercise_2\bin\Debug\netcoreapp3.1\HW2_Exercise_2.pdb
+C:\Users\Erik\source\repos\Advanced C#\HW2_Exercise_2\HW2_Exercise_2\obj\Debug\netcoreapp3.1\HW2_Exercise_2.dll
+C:\Users\Erik\source\repos\Advanced C#\HW2_Exercise_2\HW2_Exercise_2\obj\Debug\netcoreapp3.1\HW2_Exercise_2.pdb
+C:\Users\Erik\source\repos\Advanced C#\HW2_Exercise_2\HW2_Exercise_2\obj\Debug\netcoreapp3.1\HW2_Exercise_2.genruntimeconfig.cache
