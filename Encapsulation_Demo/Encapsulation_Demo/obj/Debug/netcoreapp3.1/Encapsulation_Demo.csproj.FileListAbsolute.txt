@@ -1,0 +1,13 @@
+C:\Users\Erik\source\repos\Advanced C#\Encapsulation_Demo\Encapsulation_Demo\bin\Debug\netcoreapp3.1\Encapsulation_Demo.exe
+C:\Users\Erik\source\repos\Advanced C#\Encapsulation_Demo\Encapsulation_Demo\bin\Debug\netcoreapp3.1\Encapsulation_Demo.deps.json
+C:\Users\Erik\source\repos\Advanced C#\Encapsulation_Demo\Encapsulation_Demo\bin\Debug\netcoreapp3.1\Encapsulation_Demo.runtimeconfig.json
+C:\Users\Erik\source\repos\Advanced C#\Encapsulation_Demo\Encapsulation_Demo\bin\Debug\netcoreapp3.1\Encapsulation_Demo.runtimeconfig.dev.json
+C:\Users\Erik\source\repos\Advanced C#\Encapsulation_Demo\Encapsulation_Demo\bin\Debug\netcoreapp3.1\Encapsulation_Demo.dll
+C:\Users\Erik\source\repos\Advanced C#\Encapsulation_Demo\Encapsulation_Demo\bin\Debug\netcoreapp3.1\Encapsulation_Demo.pdb
+C:\Users\Erik\source\repos\Advanced C#\Encapsulation_Demo\Encapsulation_Demo\obj\Debug\netcoreapp3.1\Encapsulation_Demo.csprojAssemblyReference.cache
+C:\Users\Erik\source\repos\Advanced C#\Encapsulation_Demo\Encapsulation_Demo\obj\Debug\netcoreapp3.1\Encapsulation_Demo.AssemblyInfoInputs.cache
+C:\Users\Erik\source\repos\Advanced C#\Encapsulation_Demo\Encapsulation_Demo\obj\Debug\netcoreapp3.1\Encapsulation_Demo.AssemblyInfo.cs
+C:\Users\Erik\source\repos\Advanced C#\Encapsulation_Demo\Encapsulation_Demo\obj\Debug\netcoreapp3.1\Encapsulation_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\Advanced C#\Encapsulation_Demo\Encapsulation_Demo\obj\Debug\netcoreapp3.1\Encapsulation_Demo.dll
+C:\Users\Erik\source\repos\Advanced C#\Encapsulation_Demo\Encapsulation_Demo\obj\Debug\netcoreapp3.1\Encapsulation_Demo.pdb
+C:\Users\Erik\source\repos\Advanced C#\Encapsulation_Demo\Encapsulation_Demo\obj\Debug\netcoreapp3.1\Encapsulation_Demo.genruntimeconfig.cache

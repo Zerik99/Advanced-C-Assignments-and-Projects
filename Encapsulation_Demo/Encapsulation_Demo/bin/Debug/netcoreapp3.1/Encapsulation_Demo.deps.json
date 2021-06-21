@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Encapsulation_Demo/1.0.0": {
+        "runtime": {
+          "Encapsulation_Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Encapsulation_Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

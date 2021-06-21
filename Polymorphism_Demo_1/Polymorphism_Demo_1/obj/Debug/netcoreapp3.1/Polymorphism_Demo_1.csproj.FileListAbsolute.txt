@@ -1,0 +1,13 @@
+C:\Users\Erik\source\repos\Advanced C#\Polymorphism_Demo_1\Polymorphism_Demo_1\bin\Debug\netcoreapp3.1\Polymorphism_Demo_1.exe
+C:\Users\Erik\source\repos\Advanced C#\Polymorphism_Demo_1\Polymorphism_Demo_1\bin\Debug\netcoreapp3.1\Polymorphism_Demo_1.deps.json
+C:\Users\Erik\source\repos\Advanced C#\Polymorphism_Demo_1\Polymorphism_Demo_1\bin\Debug\netcoreapp3.1\Polymorphism_Demo_1.runtimeconfig.json
+C:\Users\Erik\source\repos\Advanced C#\Polymorphism_Demo_1\Polymorphism_Demo_1\bin\Debug\netcoreapp3.1\Polymorphism_Demo_1.runtimeconfig.dev.json
+C:\Users\Erik\source\repos\Advanced C#\Polymorphism_Demo_1\Polymorphism_Demo_1\bin\Debug\netcoreapp3.1\Polymorphism_Demo_1.dll
+C:\Users\Erik\source\repos\Advanced C#\Polymorphism_Demo_1\Polymorphism_Demo_1\bin\Debug\netcoreapp3.1\Polymorphism_Demo_1.pdb
+C:\Users\Erik\source\repos\Advanced C#\Polymorphism_Demo_1\Polymorphism_Demo_1\obj\Debug\netcoreapp3.1\Polymorphism_Demo_1.csprojAssemblyReference.cache
+C:\Users\Erik\source\repos\Advanced C#\Polymorphism_Demo_1\Polymorphism_Demo_1\obj\Debug\netcoreapp3.1\Polymorphism_Demo_1.AssemblyInfoInputs.cache
+C:\Users\Erik\source\repos\Advanced C#\Polymorphism_Demo_1\Polymorphism_Demo_1\obj\Debug\netcoreapp3.1\Polymorphism_Demo_1.AssemblyInfo.cs
+C:\Users\Erik\source\repos\Advanced C#\Polymorphism_Demo_1\Polymorphism_Demo_1\obj\Debug\netcoreapp3.1\Polymorphism_Demo_1.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\Advanced C#\Polymorphism_Demo_1\Polymorphism_Demo_1\obj\Debug\netcoreapp3.1\Polymorphism_Demo_1.dll
+C:\Users\Erik\source\repos\Advanced C#\Polymorphism_Demo_1\Polymorphism_Demo_1\obj\Debug\netcoreapp3.1\Polymorphism_Demo_1.pdb
+C:\Users\Erik\source\repos\Advanced C#\Polymorphism_Demo_1\Polymorphism_Demo_1\obj\Debug\netcoreapp3.1\Polymorphism_Demo_1.genruntimeconfig.cache
